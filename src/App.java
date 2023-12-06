@@ -15,7 +15,8 @@ public class App {
            "t",
             "21",
             "pantalones cuadrados",
-            "todos"
+            "todos",
+            "holaaa"
         }   ;
     }
 }
