@@ -47,10 +47,10 @@ public class App {
 
         if (res.equals(respuestas[rand])){
 
-            System.out.println("has ganado");
+            System.out.println("");
         
         }else{
-            System.out.println("has fallado");
+            System.out.println("");
         }
         
     }
